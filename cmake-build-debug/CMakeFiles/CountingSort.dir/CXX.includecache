@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sofik/CLionProjects/CountingSort/ReadWriter.h
+iostream
+-
+fstream
+-
+
+C:/Users/sofik/CLionProjects/CountingSort/main.cpp
+ReadWriter.h
+C:/Users/sofik/CLionProjects/CountingSort/ReadWriter.h
+
